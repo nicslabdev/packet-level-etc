@@ -1,5 +1,3 @@
 # Packet-Level ETC (Encrypted Traffic Classification)
 ![Fondos_INCIBE](https://github.com/nicslabdev/packet-level-etc/raw/main/logo_fondos_incibe.png)
-Estos resultados han sido (parcialmente) financiados por la Cátedra Internacional UMA 2023, la cual forma parte del Programa Global de Innovación en Seguridad para la promoción de Cátedras de Ciberseguridad en España financiado por la Unión Europea Fondos NextGeneration-EU, a través del Instituto Nacional de Ciberseguridad (INCIBE).
-
-These results have been (partially) funded by the Cátedra Internacional UMA 2023, which is part of the Programa Global de Innovación en Seguridad for the promotion of Cátedras de Ciberseguridad en España, funded by the European Union NextGeneration-EU Funds, through the Instituto Nacional de Ciberseguridad (INCIBE).
+This repository is part of the project "CiberIA: Investigación e Innovación para la Integración de Ciberseguridad e Inteligencia Artificial" (Proyecto C079/23), financed by "European Union NextGeneration-EU, the Recovery Plan, Transformation and Resilience", through INCIBE.
